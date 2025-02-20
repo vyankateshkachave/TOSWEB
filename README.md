@@ -1,2 +1,2 @@
 # TOSWEB
-THIS website made by vyankatesh . this website is a ecommrace website
+THIS website made by vyankatesh
